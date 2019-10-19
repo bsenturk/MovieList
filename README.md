@@ -12,6 +12,4 @@ I have used SDWebImage to fetching and caching movie posters.
 
 # Screenshots
 
-![](https://github.com/bsenturk/MovieList/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202019-10-19%20at%2019.43.46.png =500x750)
-
-<img src="https://github.com/bsenturk/MovieList/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202019-10-19%20at%2019.43.46.png" width="500" height="750">
+<img src="https://github.com/bsenturk/MovieList/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202019-10-19%20at%2019.43.46.png" width="400" height="600">
