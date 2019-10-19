@@ -11,3 +11,5 @@ I have used MVVM architecture in the MovieList project.
 I have used SDWebImage to fetching and caching movie posters.
 
 # Screenshots
+
+![Alt Text]("https://github.com/bsenturk/MovieList/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202019-10-19%20at%2019.43.46.png")
